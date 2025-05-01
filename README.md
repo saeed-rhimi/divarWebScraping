@@ -1,7 +1,4 @@
-# divarWebScraping
-
-
-# 🏠 Divar Real Estate Scraper
+# 🏠 Divar.ir Real Estate Ads Scraper
 
 This project is a fully modular web scraping pipeline designed to extract and clean structured real estate listings from [divar.ir](https://divar.ir), a popular Persian classifieds platform.
 
