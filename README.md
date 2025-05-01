@@ -80,4 +80,3 @@ This project is created **purely for educational purposes** to demonstrate how w
 **Any use of this tool beyond learning and research is solely the responsibility of the user.**
  
 **The author assumes no responsibility for misuse or legal consequences arising from use of this tool.**
-"""
